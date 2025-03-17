@@ -1,0 +1,8 @@
+os
+requests
+streamlit
+torch
+selenium
+selenium-stealth
+webdriver-manager
+pillow
